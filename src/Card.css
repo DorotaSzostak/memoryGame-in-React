@@ -1,0 +1,7 @@
+.card-container {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    background-color: grey;
+    margin: 20px;
+}
